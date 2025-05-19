@@ -4,10 +4,10 @@
 ## Descripción
 Este proyecto es un compilador funcional en Java para un lenguaje de programación propio llamado MiniLang.  
 El compilador realiza todas las fases tradicionales:
-- 🔤 Análisis léxico
-- 🧱 Análisis sintáctico
-- 🧠 Análisis semántico
-- 🚀 Ejecución del código
+- Análisis léxico
+- Análisis sintáctico
+- Análisis semántico
+- Ejecución del código
 ##Características de MiniLang
 MiniLang es un lenguaje sencillo que permite:
 - Declarar variables con "let".  
