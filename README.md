@@ -15,27 +15,6 @@ MiniLang es un lenguaje sencillo que permite:
   let x = 5;
 - Realizar operaciones aritméticas: +, -, *, /
 - Imprimir los variables con print(x);
-## Estructura ideal del proyecto
-MiniLangCompiler/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── teoria/
-│       │       └── de/
-│       │           └── la/
-│       │               └── computacion/
-│       │                   ├── App.java
-│       │                   ├── lexer/
-│       │                   │   └── Lexer.java
-│       │                   ├── parser/
-│       │                   │   └── Parser.java
-│       │                   ├── semantic/
-│       │                   │   └── SemanticAnalyzer.java
-│       │                   └── executor/
-│       │                       └── Executor.java
-│       └── resources/
-│           └── MiniLang.txt
-└── build.gradle
 
 ## Cómo ejecutar
 - Asegúrate de tener Java 17 o superior instalado.
